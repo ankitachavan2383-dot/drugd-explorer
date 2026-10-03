@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+rdkit
+pubchempy
+py3Dmol
+requests
+streamlit-aggrid
+matplotlib
+seaborn
+plotly
+scikit-learn
+mordred
+Pillow
